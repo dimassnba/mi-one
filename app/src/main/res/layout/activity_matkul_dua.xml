@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MatkulDua"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="MATEMATIKA DASAR"
+        android:textColor="@android:color/black"
+        android:textSize="70px" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginTop="50dp"
+        android:text="APLIKASI FUNGSI LINIER DALAM EKONOMI"
+        android:textColor="@android:color/black"
+        android:textSize="15dp" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:text="@string/matdas"
+        android:textColor="@android:color/black" />
+</LinearLayout>

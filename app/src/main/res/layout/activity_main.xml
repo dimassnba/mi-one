@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Selamat Datang"
+        android:textColor="@android:color/black"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/getNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        tools:text="#"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/getEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        tools:text="#"
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="satu"
+            android:text="ENGLISH 1"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="dua"
+            android:text="MATDAS"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="tiga"
+            android:text="PTI"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="empat"
+            android:text="ASD"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="lima"
+            android:text="PPA"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/montserrat"
+            android:onClick="enam"
+            android:text="PANCASILA"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_marginLeft="130dp"
+        android:fontFamily="@font/montserrat"
+        android:onClick="jadwal"
+        android:text="Jadwal"
+        android:textColor="@android:color/black" />
+
+
+</LinearLayout>

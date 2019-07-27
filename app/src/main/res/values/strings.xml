@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">cobaFinal</string>
+    
+    <string name="binggris">
+        \n
+        <br>2 types of Future Tense :\n\n</br>
+    <br>1. Will : S + will / shall+ infinitive \n</br>
+    <br>E.g.\n</br>
+    <br>They won’t go somewhere tomorrow.\n</br>
+    <br>I’ll be there in five minutes, so wait for me! \n</br>
+    <br>Shall we leave at 9.30 tomorrow morning ? \n\n</br>
+
+    <br>2. Be going to	: S + tobe + going to + infinitive \n</br>
+    <br>E.g. \n</br>
+    <br>She is going to have a test next Monday. \n</br>
+    <br>We aren’t going to be in Jakarta tomorrow night. \n</br>
+    <br>Are the students going to have a test next week?" \n</br>
+    </string>
+
+    <string name="matdas">
+        \nPerilaku Konsumen \n
+        • Mengamati Perilaku konsumen \n
+        • Fungsi Demand (Permintaa+n)\n\n
+
+
+        Perilaku produsen\n
+        • Mengamati Perilaku produsen\n
+        • Fungsi Supply (Penawarn)\n\n
+
+
+        Perilaku Pasar\n
+        • Mengamati Perilaku pasar\n
+        • Titik keseimbangan pasar\n
+        • Fungsi Demand (Permintaan)"\n
+    </string>
+
+    <string name="pti">
+        \n1.Buka casing\n\n
+        2.Pasang power supply\n\n
+        3.Pasang prosessor, heatsink dan memori.\n
+            (alas yg datar dan tidak keras:spon ati, kardus)\n
+            jangan lupa thermal grease/pasta secukupnya.\n\n
+        4.pasang MB kedalam casing pastikan kaki penyangga\n
+            di tempat yang benar.
+            ( Saat pemasangan card dan memori tdk melengkung).\n\n
+        5.Pasang harddisk internal.\n\n
+        6.Pasang CD / DVD RW\n\n
+        7.Pasang adapter card ( VGA, NIC, Sound,dll)\n\n
+        8.Pasang semua kabel- kabel
+            ( power MB, 4pin AUX, front panel,
+            Fan prosc, power HD, data HD)\n\n
+        9.Tutup casing kemudian pasang kabel yang ada di luar\n
+            ( keyboard, mouse,VGA, speaker, power ke PLN)\n\n
+        10.Teliti kembali siapa tahu ada yang terbalik atau\n
+            belum terpasang dan Berdoa\n
+    </string>
+
+    <string name="asd">
+        \nProgram C maupun C++ tersusun dari 4 (empat)\n
+        bagian utama, yaitu\n
+
+        a) Bagian komentar yang ditandai dengan\n
+            symbol // dan pasangan /* … */\n
+        b) Bagian pengarah compiler yang ditandai\n
+            dengan symbol #\n
+        c) Bagian deklarasi dan definisi\n
+        d) Akhir dari program\n
+    </string>
+
+    <string name="ppa">
+        \n1.Buka Microsoft Word\n\n
+        2. Hal pertama yang harus kamu lakukan adalah\n
+            \tmembuat struktur halaman yang terdiri dari:\n
+        \t\t[a]. COVER (i),[Heading 1/BEBAS BISA DISESUAIKAN]\n
+        \t\t[b]. Kata Pengantar (ii), [Heading 1]\n
+        \t\t[c]. Daftar Isi (iii), [Heading 1]\n
+        \t\t[d]. BAB I (1), [Heading 1]\n
+        \t\t[e]. Judul BAB I (1), [Heading 2]\n
+        \t\t[f]. Sub Judul BAB I (2), [Heading 2]\n
+        \t\t[g]. BAB II (3), [Heading 1]\n
+        \t\t[h]. Judul BAB II (3), [Heading 2]\n
+        \t\t[i]. Sub Judul BAB II (3), [Heading 2]\n\n
+        3. Struktur diatas hanya contoh, selanjutnya untuk BAB\n
+            \t\tIII dan BAB IV dan seterusnya silahkan kalian tinggal\n
+            \t\ttambahkan sendiri, jangan lupa ganti judul, sub judul,\n
+            \t\tdan letak nomor halamannya. Jika skripsinya sudah\n
+            \t\tkalian ketik, tinggal copy paste saja ke masing-masing\n
+            \t\tstruktur halaman diatas sesuai tempatnya.\n
+            \t\tPraktis bukan?\n\n
+        4. Jika sudah semua, masuk ke bagian Daftar Isi.\n
+            \t\tArahkan mouse dan klik pada area daftar isi,\n
+            \t\tpilih Update Table.\n\n
+        5. Maka akan muncul jendela Update Table of Contents,\n
+            \t\tpilih Update entire table. Maka otomatis semua\n
+            \t\tstruktur halaman, dari Cover, BAB sampai\n
+            \t\thalaman-halamannya akan terupdate di Daftar Isi\n
+            \t\tsesuai nomor halamannya.\n\n
+        6. Selesai\n
+    </string>
+
+    <string name="pancasila">
+        \nadalah ideologi dasar dalam kehidupan bagi negara\n
+        Indonesia. Nama ini terdiri dari dua kata dari\n
+        Sanskerta: pañca berarti lima dan śīla berarti\n
+        prinsip atau asas. Pancasila merupakan rumusan\n
+        dan pedoman kehidupan berbangsa dan bernegara\n
+        bagi seluruh rakyat Indonesia.\n
+    </string>
+    
+    <string name="pancasilaa">
+        \nButir-butir pengamalan Pancasila\n
+        1. Ketuhanan Yang Maha Esa\n
+        2. Kemanusiaan yang adil dan beradab\n
+        3. Persatuan Indonesia\n
+        4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan\n
+            dalam permusyawaratan dan perwakilan\n
+        5. Keadilan sosial bagi seluruh rakyat Indonesia\n
+    </string>
+
+
+
+
+
+</resources>
